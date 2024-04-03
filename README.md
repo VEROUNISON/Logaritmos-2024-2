@@ -1,1 +1,1 @@
-# Logaritmos-2024-2
+# Algoritmos-2024-2
